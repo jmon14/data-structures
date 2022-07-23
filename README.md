@@ -1,3 +1,3 @@
 # Data structures exercises
 
-Includes simple data structure exercises in java & javascript
+Includes simple data structure exercises in java & c++
